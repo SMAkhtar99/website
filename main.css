@@ -1,0 +1,21 @@
+
+.coloured-top {
+    background-color: #f6cfa6;
+    color: #806e59;
+}
+
+.coloured-top header {
+    border-bottom: 1px solid#d2b89b;
+}
+
+.coloured-top .name-header {
+    color: #645646;
+}
+
+.underlined {
+    text-decoration: underline;
+}
+
+.cta-buttons {
+    margin-top: 30px;
+}
